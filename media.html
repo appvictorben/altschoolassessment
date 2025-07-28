@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Media</title>
+</head>
+<body>
+
+  <h1>Hello, I'm Victor Omerusure Umukoro</h1>
+   <h1>About Me</h1>
+    <!-- Student ID -->
+    <h2>My ID: ALT/SOE/025/4492</h2>
+
+  <hr>
+
+  <!-- Picture Element with 3 Sources -->
+  <h2>Photo</h2>
+  <picture>
+    <source media="(max-width: 480px)" srcset="images/victor-mobile.jpg">
+    <source media="(max-width: 768px)" srcset="images/victor-tablet.jpg">
+    <source media="(max-width: 1200px)" srcset="images/victor-laptop.jpg">
+    <source media="(min-width: 1201px)" srcset="images/victor-desktop.jpg">
+
+    <img src="image/victorome.jpg" alt="Photo of Victor Ome" width="300" height="300">
+
+  
+
+  </picture>
+  <p>This image responds to your device screen size.</p>
+
+  <hr>
+
+  <!-- Audio Element -->
+  <h2>My Voice</h2>
+  <p>Listen to a short voice intro:</p>
+  <audio controls>
+    <source src="media/victor-intro.mp3" type="audio/mpeg">
+    <source src="media/victor-intro.ogg" type="audio/ogg">
+    Your browser does not support the audio element.
+  </audio>
+
+  <hr>
+
+  <!-- Video Element -->
+  <h2>My Work in Action</h2>
+  <video width="640" height="360" controls poster="images/video-preview.jpg">
+    <source src="media/victor-project.mp4" type="video/mp4">
+    <source src="media/victor-project.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+  
+  <p>© 2025 Victor Ome - Powered by HTML only</p>
+
+</body>
+</html>
