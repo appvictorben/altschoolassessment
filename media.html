@@ -2,47 +2,34 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Media</title>
+  <title>Umukoro Victor Omerusure - Student Profile</title>
 </head>
 <body>
+  <h1>Umukoro Victor Omerusure</h1>
+  <p>Student ID: ALT/SOE/025/4492</p>
 
-  <h1>Hello, I'm Victor Omerusure Umukoro</h1>
-  <!-- The names 'Omerusure' and 'Umukoro' are correct as per the user's identity; spell checker warnings can be ignored. -->
-   <h1>About Me</h1>
-    <!-- Student ID -->
-    <h2>My ID: ALT/SOE/025/4492</h2>
-
-  <hr>
-
-  <!-- Picture Element with 3 Sources -->
-  <h2>Photo</h2>
+  <h2>Picture</h2>
+  
   <picture>
-    <img src="images/victor-desktop.jpg" alt="Photo of Victor Ome" width="300" height="300">
+    <source srcset="./image/Victor.jpg" type="image/jpeg">
+    <source srcset="./image/Victor.webp" type="image/webp">
+    <source srcset="./image/Victor.png" type="image/png">
+  <img src="./image/Victor.jpg" alt="Umukoro Victor Omerusure" width="200" height="200">
   </picture>
 
-
-  <hr>
-
-  <!-- Audio Element -->
-  <h2>My Voice</h2>
-  <p>Listen to a short voice intro:</p>
+  
+  <h2>Audio</h2>
   <audio controls>
-    <source src="media/victor-intro.mp3" type="audio/mpeg">
-    <source src="media/victor-intro.ogg" type="audio/ogg">
+    <source src="audio.mp3" type="audio/mpeg">
+    <source src="audio.ogg" type="audio/ogg">
     Your browser does not support the audio element.
   </audio>
 
-  <hr>
-
-  <!-- Video Element -->
-<h2>My Work in Action</h2>
-<video controls width="640" height="360" poster="images/video-preview.jpg"></video>
-    <source src="media/victor-project.mp4" type="video/mp4">
-    <source src="media/victor-project.webm" type="video/webm">
+  <h2>Video</h2>
+  <video controls width="320" height="240">
+    <source src="video.mp4" type="video/mp4">
+    <source src="video.webm" type="video/webm">
     Your browser does not support the video tag.
-</video>
-  
-  <p>© 2025 Victor Ome - Powered by HTML only</p>
-
+  </video>
 </body>
 </html>
