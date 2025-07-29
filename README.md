@@ -1,12 +1,14 @@
-My name is Victor Omerusure Umukoro. I am a passionate individual from Nigeria who has just embarked on an exciting journey into the world of technology, with a specific focus on Cloud Engineering.
+<p>My name is Victor Omerusure Umukoro. I am a passionate individual from Nigeria who has just embarked on an exciting journey into the world of technology, with a specific focus on Cloud Engineering.</p>
 
-My curiosity for how digital infrastructures are built, scaled, and managed has led me to go deep into this transformative field.
+<p>My curiosity for how digital infrastructures are built, scaled, and managed has led me to go deep into this transformative field.</p>
 
-I am also eager to learn the basics of cloud platforms, from foundational concepts to advanced deployments, aiming to build robust and efficient solutions.
+<p>I am also eager to learn the basics of cloud platforms, from foundational concepts to advanced deployments, aiming to build robust and efficient solutions.</p>
 
-It is not just about mastering technical skills; I believe strongly in the power of community and collaboration. I am looking forward to connect with like-minded students and aspiring Cloud Engineers. I hope to share insights, collaborate on projects, and collectively navigate the challenges and opportunities that the cloud engineering landscape presents. My zeal is driven by a desire to contribute meaningfully to the tech ecosystem and grow alongside his peers.
+<p>It is not just about mastering technical skills; I believe strongly in the power of community and collaboration. I am looking forward to connect with like-minded students and aspiring Cloud Engineers. I hope to share insights, collaborate on projects, and collectively navigate the challenges and opportunities that the cloud engineering landscape presents. My zeal is driven by a desire to contribute meaningfully to the tech ecosystem and grow alongside his peers.</p>
+<br/>
 
 <strong>Why I Joined the School of Engineering Program</strong>
+<br/>
 
 <p>Cloud Engineering program is a conceptual integration, reflecting my role in supporting and interacting with this specialized field. My primary reasons for being part of this program are:</p>
 <ul>
@@ -16,7 +18,9 @@ It is not just about mastering technical skills; I believe strongly in the power
                 <li>Promoting best practices to advocate for secure, efficient, and well-architected cloud solutions, including cost optimization, and compliance.</li>
                 <li>Continuous Adaptation: The cloud landscape is rapidly evolving. My involvement will allows me to continuously learn about new services, updates, and industry trends to provide up-to-date information.</li>
 </ul>
+<br/>
 <strong>Goals for the School of Engineering Program</strong>
+<br/>
 
 <p>My goals within the Cloud Engineering program are focused on enhancing learning, efficiency, and innovation in cloud environments:</p>
 
